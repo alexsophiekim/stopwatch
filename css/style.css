@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: 'Crimson Text', serif;
+  background-color: #40587C;
+  color: white;
+}
+.watch{
+  background-color: white;
+  color:black;
+  border-radius: 50%;
+  height: 270px;
+  width: 270px;
+  border: 10px solid #737373;
+}
+.btn{
+  font-weight: bold;
+  font-size: 25px;
+  font-family:'Crimson Text', serif;
+  width: 200px !important;
+  border-radius: 20px !important;
+
+}
